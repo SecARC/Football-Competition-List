@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\week13-1\week13-1\bin\Debug\week13-1.exe.config
+C:\Users\PC\source\repos\week13-1\week13-1\bin\Debug\week13-1.exe
+C:\Users\PC\source\repos\week13-1\week13-1\bin\Debug\week13-1.pdb
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13_1.Form1.resources
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13_1.Properties.Resources.resources
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13-1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13-1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13-1.exe
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13-1.pdb
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13_1.Competition.resources
+C:\Users\PC\source\repos\week13-1\week13-1\bin\Debug\maclar.csv
+C:\Users\PC\source\repos\week13-1\week13-1\obj\Debug\week13-1.csproj.AssemblyReference.cache
